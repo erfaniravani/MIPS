@@ -4,7 +4,7 @@ MIPS processor implementation using verilog
 
 Three different versions of MIPS are designed. single cycle, multi cycle, and pipelined
 
-The mulicycle processor supports the following instructions:
+The mulicycle and singlecycle processors support the following instructions:
 add, addi, sub, slt, slti, and, or, lw, sw, j, jal, jr, beq
 
 The pipelined processor supports the following instructions:
